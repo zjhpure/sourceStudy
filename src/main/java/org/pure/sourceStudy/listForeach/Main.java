@@ -41,14 +41,14 @@ public class Main {
         System.out.println("测试LinkedList通过iterator遍历消耗时间：" + linkedListIteratorTime);
 
         // 根据测试结果：
-        // ArrayList通过for遍历比通过iterator遍历要稍快，
-        // LinkedList通过iterator遍历比通过for遍历要快。
+        // ArrayList通过for遍历和通过iterator遍历差不多
+        // LinkedList通过iterator遍历比通过for遍历要快很多
 
-        // 在我们的应用中，要考虑使用List接口的哪种实现类，可以更好更高效的满足实际场景需求。
-        // 通过实现RandomAccess接口来区分List的哪种实现类。
+        // 在我们的应用中，要考虑使用List接口的哪种实现类，可以更好更高效的满足实际场景需求
+        // 通过实现RandomAccess接口来区分List的哪种实现类
 
-        // 实现RandomAccess接口的List可以通过for遍历数据，比使用iterator遍历数据更高效，
-        // 未实现RandomAccess接口的List可以通过iterator遍历数据，比使用for遍历数据更高效。
+        // 实现RandomAccess接口的List通过for遍历数据，和通过iterator遍历数据差不多
+        // 未实现RandomAccess接口的List通过iterator遍历数据，比通过for遍历数据高效很多
     }
 
     /**
