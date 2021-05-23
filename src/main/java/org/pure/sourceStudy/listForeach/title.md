@@ -302,7 +302,9 @@ public class Main {
 
 #### 准备
 
-这里以jdk1.8作为测试，从GitHub找到测试源码，地址：https://github.com/zjhpure/sourceStudy/blob/master/src/main/java/org/pure/sourceStudy/listForeach/Main.java，用idea打开，打开如图所示的地方。
+这里以jdk1.8作为测试，从GitHub找到测试源码，地址：https://github.com/zjhpure/sourceStudy/blob/master/src/main/java/org/pure/sourceStudy/listForeach/Main.java
+
+用idea打开，打开如图所示的地方。
 
 ![测试代码](https://upload-images.jianshu.io/upload_images/4362697-f2105e908c9d7f13.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
