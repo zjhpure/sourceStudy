@@ -6,8 +6,8 @@
 
 GitHub：
 
-* [列表for循环](https://github.com/zjhpure/sourceStudy/tree/master/src/main/java/org/pure/sourceStudy/listForeach/title.md)
+* [从源码解读Java列表的遍历效率](https://github.com/zjhpure/sourceStudy/tree/master/src/main/java/org/pure/sourceStudy/listForeach/title.md)
 
 Gitee：
 
-* [列表for循环](https://gitee.com/zjhpure/source-study/tree/master/src/main/java/org/pure/sourceStudy/listForeach/title.md)
+* [从源码解读Java列表的遍历效率](https://gitee.com/zjhpure/source-study/tree/master/src/main/java/org/pure/sourceStudy/listForeach/title.md)

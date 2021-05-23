@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * @author zhangjianhua
  * @date 2021-05-09 16:08
- * @description 列表for循环
+ * @description 从源码解读Java列表的遍历效率
  */
 @SuppressWarnings("ALL")
 public class Main {
